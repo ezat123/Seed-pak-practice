@@ -1,0 +1,25 @@
+
+form {
+  border: 1px solid #c6c7cc;
+  border-radius: 5px;
+  font: 14px/1.4  Arial, sans-serif;
+  overflow: hidden;
+  width: 240px;
+}
+fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+input{
+    border-radius:5px;
+    background-color: whitesmoke;
+    padding:5px;
+}
+.field{
+    padding:20,0,20,20
+}
+.foot{
+    background-color:gainsboro;
+    border-top:1px;
+}
